@@ -1,13 +1,5 @@
 # 👋 Seja bem-vindo(a) 
 
-Me chamo Iris, sou do Rio de Janeiro e sou uma desenvolvedora ainda em aprendizado com experiência de 2-3 anos no mercado
- 
-• Ainda não me formei mas estou nos últimos anos da faculdade
-
-• Tenho 4 gatos 
-
-• Sim, meu sobrenome é Café
-
 ### 📋 Tecnologias que uso no meu dia
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
