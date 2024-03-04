@@ -9,8 +9,6 @@
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iriscafe&theme=merko)]() [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iriscafe&theme=merko)]()
-
 ### 📫 Contato
 
 Sinta-se a vontade para entrar em contato
